@@ -8,12 +8,12 @@ using RulesEngine;
 using System.Globalization;
 using NSubstitute.ReturnsExtensions;
 
-namespace UnitTests
+namespace TestRuleEngine
 {
     using RulesEngine = RulesEngine.RulesEngine;
 
     [TestClass]
-    public class UnitTests
+    public class TestRulesEngineNSubstitute
     {
 
         private IEnumerable<IRule> getAllRules()

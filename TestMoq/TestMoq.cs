@@ -9,7 +9,7 @@ namespace TestMoq
     using Moq;
 
     [TestClass]
-    public class UnitTest1
+    public class TestMoq
     {
         [TestInitialize]
         public void Setup()

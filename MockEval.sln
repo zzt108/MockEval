@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNSubstitute", "TestNSub
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMoq", "TestMoq\TestMoq.csproj", "{811DEA00-C130-4FEE-93EB-F8F2F8F74C38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFakeItEasy", "TestFakeItEasy\TestFakeItEasy.csproj", "{3CACB684-78F0-4301-801E-D56A35C23BDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{811DEA00-C130-4FEE-93EB-F8F2F8F74C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{811DEA00-C130-4FEE-93EB-F8F2F8F74C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{811DEA00-C130-4FEE-93EB-F8F2F8F74C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CACB684-78F0-4301-801E-D56A35C23BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CACB684-78F0-4301-801E-D56A35C23BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CACB684-78F0-4301-801E-D56A35C23BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CACB684-78F0-4301-801E-D56A35C23BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
