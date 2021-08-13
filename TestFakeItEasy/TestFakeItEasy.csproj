@@ -61,6 +61,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestRulesEngineFakeItEasy.cs" />
     <Compile Include="TestFakeItEasy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
